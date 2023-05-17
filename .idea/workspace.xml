@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daaacbd5-d4f4-49ea-b936-993d20d1fa80" name="Default" comment="Ver 1.0.2 仅仅改了一下ReadMe样式">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +377,7 @@
       <updated>1492851024705</updated>
       <workItem from="1645879067923" duration="634000" />
       <workItem from="1672724003495" duration="673000" />
-      <workItem from="1684292065356" duration="1287000" />
+      <workItem from="1684292065356" duration="1783000" />
     </task>
     <task id="LOCAL-00001" summary="Ver1.0.0:使用大津法和findContour解决了昆虫的计数问题">
       <created>1492852528195</created>
@@ -400,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492871069543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ver 1.0.2 仅仅改了一下ReadMe样式">
+      <created>1684302794499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684302794499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
